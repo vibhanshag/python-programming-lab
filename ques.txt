@@ -1,0 +1,3 @@
+write a python script to count the number of words in a given text file data.txt
+WAPP to display the number of lines from the file which starts with vowels and ends with non vowels character
+
